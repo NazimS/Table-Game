@@ -1,2 +1,4 @@
 #cedvel {border-collapse: collapse; margin: 50px auto;}
 td {border: 1px solid grey; width: 100px; height: 100px; text-align: center; cursor: pointer;}
+h1 {text-align: center;}
+#result {text-align: center;}
